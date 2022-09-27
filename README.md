@@ -1,3 +1,8 @@
+## Find my work on computational methods in this repository
 
-
-Learning and implementation of digital methods used in financial engineering: classical and robust optimisation, systems of equations, numerical integration, approximate dynamic programming, reinforcement learning.
+Implementation of numerical  methods used in   
+- optimisation
+- systems of equations
+- numerical integration
+- approximate dynamic programming
+- reinforcement learning
