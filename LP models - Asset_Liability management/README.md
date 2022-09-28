@@ -9,8 +9,10 @@ A company has the following short-term financing problem:
 | Net cash flow |-150 |-100 |200  |-200 |50   |300  |
 
 
+```
 {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
 }
+```
