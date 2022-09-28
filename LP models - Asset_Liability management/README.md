@@ -34,7 +34,9 @@ The **constraints** are of three types:
 
 
 ### The Optimization Problem
-\[ max v
-\]
+
+\begin{align}
+max v
+\end{align}
 
 
