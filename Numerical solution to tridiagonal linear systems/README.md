@@ -1,4 +1,6 @@
-## Comparing two algorithms for solving tridiagonal linear systems. 
+## Direct algorithm for solving tridiagonal linear systems. 
 
-1. The Cholesky Algorithm for Tridiagnonal
-For a positive definite and symmetric matrix, $A$ in $R^{n\times n}$, and a right-hand term $b$ in $R^{n\times 1}$, this algorithm exploits the tridiagonal structure of matrix, $A$ to solve the linear system $Ax = b$.
+For a positive definite and symmetric matrix, $A$ that is tridiagonal in $R^{n\times n}$, and a right-hand term $b$ in $R^{n\times 1}$, this algorithm finds the direct solution to the linear system $Ax=b$.
+
+Suppose that the first $k$ equations of $Ax=b$ have been reduced to the form
+$$x_{j} - e_{j}x_{j+1} = f_{j} \quad j = 1,2, \dots, k$$
