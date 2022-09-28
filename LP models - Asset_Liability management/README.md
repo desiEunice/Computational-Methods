@@ -38,4 +38,4 @@ The **constraints** are of three types:
 <img src="lp.png" width="600" height="300" />
 
 
-
+### Solved the Problem in Matlab
