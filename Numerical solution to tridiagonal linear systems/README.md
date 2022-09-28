@@ -10,6 +10,7 @@ have been reduced to the form:
 $$x_{j} - e_{j}x_{j+1} = f_{j} \quad j = 1,2, \dots, k$$
 
 Example: 
+
 $$ x_{1} - \underbrace{ [- \frac{a_{12}}{a_{11}}] }_ {e_{1}} x_{2} = \underbrace{\frac{b_1}{a_11}}_ {f_{1}}  $$
 
 the  $k+1$ th equation:
