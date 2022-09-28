@@ -24,7 +24,7 @@ Therefore the reduced form of the $k+1$ equation is:
 $$x_{k+1} - e_{k+1}x_{k+2} = f_{k+1}$$
 
 We solve the system by first solving for coefficients of the reduced form of our system, $e_j$ and $f_j$ for $j = 1, 2, \dots, n-1$ and $f_n$ for $j=n$.<br> 
-Note that $$x_n = f_n$$ because for a tridiagonal matrix of size $n$, $n+1$ does not exist. So: 
+Note that $$x_n = f_n$$ because for a tridiagonal matrix of size $n$, $x_{n+1}$ does not exist. So: 
 
 $$x_{n} - \underbrace{e_{n}x_{n+1}}_ {=0} = f_{n}$$ 
 
