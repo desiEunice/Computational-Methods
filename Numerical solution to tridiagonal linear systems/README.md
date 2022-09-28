@@ -33,4 +33,4 @@ Then we plug $x_n$ into the equation:
 
 $$x_{n-1} -e_{n-1}x_n = f_{n-1}$$
 
-to solve for $x_{n-1}$ and repeat the process until we get $x_1$
+to solve for $x_{n-1}$ and repeat the process until we get $x_1$.
