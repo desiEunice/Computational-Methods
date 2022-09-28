@@ -12,6 +12,6 @@ A company has the following short-term financing problem:
 
 Net cash flow requirements are given in thousands of dollars. The company has the
 following sources of funds:
-- a line of credit of up to $100k at an interest rate of $1%$ per month;
-- in any one of the first three months, it can issue 90-day commercial paper bearing a total interest of $2%$ for the three-month period;
-- excess funds can be invested at an interest rate of $0.3%$ per month.
+- a line of credit of up to $100k$ at an interest rate of $1\%$ per month;
+- in any one of the first three months, it can issue 90-day commercial paper bearing a total interest of $2\%$ for the three-month period;
+- excess funds can be invested at an interest rate of $0.3\%$ per month.
