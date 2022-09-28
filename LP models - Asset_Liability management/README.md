@@ -35,7 +35,7 @@ The **constraints** are of three types:
 
 ### The Optimization Problem
 
-<img src="lp.png" width="500" height="300" />
+<img src="lp.png" width="700" height="300" />
 
 
 
