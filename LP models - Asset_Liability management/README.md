@@ -36,7 +36,7 @@ The **constraints** are of three types:
 ### The Optimization Problem
 
 ![](lp.png  =100x20)
-<img src="lp.png" width="200" height="400" />
+<img src="lp.png" width="400" height="300" />
 
 
 
