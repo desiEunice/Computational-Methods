@@ -6,13 +6,9 @@ A company has the following short-term financing problem:
 
 | Month         | Jan | Feb | Mar | Apr | May | Jun |
 |---------------------------------------------------|
-| Net cash flow |-150 |-100 |200  |-200 |50   |300  |
+| |-150 |-100 |200  |-200 |50   |300  |
 
+| Month       | Jan | Feb | Mar | Apr | May | Jun |
+| :---        |:---:|:---:|:---:|:---:|:---:|---: |
+|Net cash flow|-150 |-100 |200  |-200 |50   | 300 |       
 
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
