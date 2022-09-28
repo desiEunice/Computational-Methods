@@ -35,6 +35,6 @@ The **constraints** are of three types:
 
 ### The Optimization Problem
 
-<img src="lp.jpg" width="150"/>
+![](lp.png =100x20)
 
 
