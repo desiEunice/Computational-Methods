@@ -20,10 +20,10 @@ following sources of funds:
 ### Modeling the problem
 
 The variables, in thousands of dollars:
-- $x_i$, the amount used from the credit line at the end of month $i$, for $i = 1, \dots, 5$
-- $y_i$, the amount of commercial paper issued at the end of month $i$, for $i = 1, \dots, 3$
-- $z_i$, the amount remaining in the savings account at the end of  month $i$, for $i = 1, \dots, 5$
-- $v$, the value of the company at the end of June.
+- $x_i$ the amount used from the credit line at the end of month $i$, for $i = 1, \dots, 5$
+- $y_i$ the amount of commercial paper issued at the end of month $i$, for $i = 1, \dots, 3$
+- $z_i$ the amount remaining in the savings account at the end of  month $i$, for $i = 1, \dots, 5$
+- $v$ the value of the company at the end of June.
 
 The **objective function** is $v$, which we wish to maximize.
 
