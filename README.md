@@ -1,6 +1,6 @@
 #### Implementation of numerical  methods used in   
 
-- optimisation
+- linear and nonlinear optimisation
 - systems of equations
 - numerical integration
 - approximate dynamic programming
