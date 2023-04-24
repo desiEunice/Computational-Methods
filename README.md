@@ -6,4 +6,3 @@
 - systems of equations
 - numerical integration
 - approximate dynamic programming
-- reinforcement learning
